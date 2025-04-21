@@ -7,5 +7,7 @@ DAY5:- FUNCTION TO FIND THE ELEMENTS APPERATIN MORE THAN N/3 TIMES
 DAY6:- MAJORIY ELEMENT IN AN ARRAY
 DAY7:- STOCK BUY AND SELL - MULTIPLE TRANSACTION ALLOWED
 DAY8:- STOCK BUY AND SELL – MAX ONE TRANSACTION ALLOWED
-DAY9:- KADANE'S ALGORITHM ( you need to find the maximum sum of a subarray)
-DAY10:- MAXIMUM PRODUCT OF SUBARRAY (Find the maximum product that we can get in a subarray of arr[].)
+DAY9:-
+DAY10:- KADANE'S ALGORITHM ( you need to find the maximum sum of a subarray)
+DAY11:- MAXIMUM PRODUCT OF SUBARRAY (Find the maximum product that we can get in a subarray of arr[].)
+DAY12:- 
