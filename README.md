@@ -15,4 +15,4 @@ DAY14:- IMPLEMENT ATOI (Given a string s, the objective is to convert it into in
 DAY15:- ADD BINARY STRING.
 DAY16:- ANAGRAM ( eg:- Listen , silent)
 DAY17:-NON REPEATING CHARACTER
-DAY18:-
+DAY18:-SEARCH PATTERN
