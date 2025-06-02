@@ -34,3 +34,4 @@
 33. Aggressive cows.
 34. Allocate minimum pages.
 35. K-th missing positive number in a sorted array.
+36. Spirally traversing a matrix
