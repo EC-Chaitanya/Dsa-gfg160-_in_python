@@ -36,3 +36,5 @@
 35. K-th missing positive number in a sorted array.
 36. Spirally traversing a matrix
 37. Rotate by 90 degree
+38. Search in Row-Column sorted matrix
+39. 
