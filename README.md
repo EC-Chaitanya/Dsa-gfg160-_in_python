@@ -35,3 +35,4 @@
 34. Allocate minimum pages.
 35. K-th missing positive number in a sorted array.
 36. Spirally traversing a matrix
+37. Rotate by 90 degree
