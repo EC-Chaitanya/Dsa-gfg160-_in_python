@@ -45,3 +45,5 @@
 44. Find all the Triplets with zero sum
 45. Intersection of two arrays with duplicate element
 46. Union of Arrays with Duplicate
+47. Longest Consecutive subsequence
+48. print anagrams together
