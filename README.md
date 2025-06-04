@@ -48,4 +48,4 @@
 47. Longest Consecutive subsequence
 48. print anagrams together
 49. Subarray with sum K
-50. Count Subarray with given XOR
+50. Count Subarray with given XOR.
