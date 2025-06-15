@@ -50,4 +50,6 @@
 49. Subarray with sum K.
 50. Count Subarray with given XOR.
 51. Count all triplets with even sum in sorted array
-52. Count pairs whose  sum less than the target
+52. Count pairs whose  sum less than the target.
+53. Sum pair closest to target
+54. 
