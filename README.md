@@ -53,7 +53,7 @@
 52. Count pairs whose  sum less than the target.
 53. Sum pair closest to target.
 54. Pair with given sum in a sorted array
-55. Count the number of possible triangles
+55. Count the number of possible triangles.
 56. Index of subarray Sum.
 57. Count distinct elements of every window.
 58. Longest substring with distinct characters.
