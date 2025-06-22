@@ -8,7 +8,7 @@
 7. Stock buy and sell – Multiple transactions allowed.
 8. Stock buy and sell – Max one transaction allowed.
 9. Minimize the height.
-10. Kadane's Algorithm (Find the maximum sum of a subarray).
+10. Kadane's Algorithm (Find the maximum sum of a subarray)
 11. Maximum product of subarray (Find the maximum product that we can get in a subarray).
 12. Find the sum of circular subarray
 13. Smallest positive missing (Find the smallest positive number missing from the array).
