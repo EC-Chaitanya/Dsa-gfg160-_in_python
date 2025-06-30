@@ -59,4 +59,4 @@
 58. Longest substring with distinct characters.
 59. Traping Rain Water.
 60. Container with most water.
-61. Equilbrium Point
+61. Equilbrium Point.
