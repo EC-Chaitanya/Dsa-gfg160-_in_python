@@ -68,4 +68,4 @@
 67. Merge two sorted linked list
 68. Linked List group reverse
 69. Add number linkded list.
-70. Clone list with Next and random
+70. Clone list with Next and random.
