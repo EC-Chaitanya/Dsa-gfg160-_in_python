@@ -71,4 +71,6 @@
 70. Clone list with Next and random.
 71. Detect a loop in link list
 72. Find the first node of loop in linked list
-73. 
+73. Remove loop in linded list
+74. LRU cache
+75. 
