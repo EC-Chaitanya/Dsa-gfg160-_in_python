@@ -76,3 +76,5 @@
 75. Permutations of a String.
 76. Implement POW.
 77. N-queen problems
+78. Solve the sudoku.
+79. 
