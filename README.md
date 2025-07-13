@@ -73,4 +73,6 @@
 72. Find the first node of loop in linked list
 73. Remove loop in linded list.
 74. LRU cache.
-75. 
+75. Permutations of a String.
+76. Implement POW.
+77. N-queen problems
